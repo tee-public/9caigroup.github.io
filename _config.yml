@@ -42,5 +42,3 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-page:
-  list_title: 文章
