@@ -11,8 +11,8 @@ meta: "free eleme 饿了么 美团 会员"
 
 ##第一步
 
-![eleme-1.jpg](http://ot5upjzv4.bkt.clouddn.com/blog/net-free/eleme-1.jpg "eleme-1.jpg")
+![eleme-1.jpg](http://ot5upjzv4.bkt.clouddn.com/blog/net-free/eleme-1_240x438.jpg "eleme-1.jpg")
 
 ##第二步
 
-![eleme-2.jpg](http://ot5upjzv4.bkt.clouddn.com/blog/net-free/eleme-2.jpg "eleme-2.jpg")
+![eleme-2.jpg](http://ot5upjzv4.bkt.clouddn.com/blog/net-free/eleme-2_240x441.jpg "eleme-2.jpg")
